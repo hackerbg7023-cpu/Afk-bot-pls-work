@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "titanonlysmp.mcsh.io",
-    "port": 25565,
+    "ip": "titansonlysmp.play.hosting",
+    "port": 23314,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "welcome to AOT world",
+        "kill titans!",
+        "the only way to win from titans is fight back tatakai tatakai!!!(fight fight!!!)"
       ]
     },
     "chat-log": true,
